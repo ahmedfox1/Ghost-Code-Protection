@@ -39,4 +39,4 @@ This project demonstrates advanced **C++ software protection techniques** design
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/AhmedSameh/Ghost-Code-Protection.git](https://github.com/AhmedSameh/Ghost-Code-Protection.git)
+   git clone [https://github.com/ahmedfox1/Ghost-Code-Protection.git](https://github.com/ahmedfox1/Ghost-Code-Protection.git)
