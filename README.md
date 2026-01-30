@@ -7,7 +7,7 @@
 ## 📜 Overview
 This project demonstrates advanced **C++ software protection techniques** designed to evade static analysis tools (like **Ghidra** & **IDA Pro**) and dynamic debuggers (like **x64dbg**). The goal is to turn the binary into a "Black Box" that is difficult to analyze or tamper with.
 
-**🎥 Watch the full tutorial on YouTube:** [LINK TO YOUR VIDEO HERE]
+**🎥 Watch the full tutorial on YouTube:** https://youtu.be/FqHYxcpJRRw
 
 ---
 
@@ -33,7 +33,7 @@ This project demonstrates advanced **C++ software protection techniques** design
 ## 🚀 How to Build
 
 ### Prerequisites
-- Visual Studio 2019/2022.
+- Clion
 - C++17 or later standard.
 
 ### Steps
